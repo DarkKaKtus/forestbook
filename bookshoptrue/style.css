@@ -336,7 +336,6 @@ a.active {
     }
     .medium_title, .medium_title1 {
         text-align: center;
-        white-space: nowrap;
         font-size: 16px;
     }
 
